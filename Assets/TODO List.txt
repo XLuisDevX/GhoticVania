@@ -1,0 +1,3 @@
+-> Crear detección de ataque del jugador al enemigo
+-> Crear efecto knock up cuando el enemigo es golpeado por el jugador
+-> Implementar vida del enemigo para dañarlo y posteriormente eliminarlo si su vida llega a 0
